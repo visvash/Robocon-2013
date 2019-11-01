@@ -1,3 +1,3 @@
-# Robocon-2013
+# Solution- Robocon 2013 Problem Statement
 Design idea and Solidworks for AUTOMATIC BOT ROBOCON 2013. </br>
 Hi guys, I have been working on the idea of using vacuum suction grippers instead of mechanical grippers. Vacuum grippers seem to be tricky in the first sight but it is really an superb mechanism for picking the coin as per the problem statement of robocon 2013. I have used its concept and gone through the pressure calculations which theoretically make this method reliable. Moreover the manufacturing can be much easier than most of the mechanical grippers. I have included the solidworks parts and assembly. Suggestions and feedbacks are whole-heartedly welcomed.
